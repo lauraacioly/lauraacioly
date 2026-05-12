@@ -28,6 +28,7 @@ Gosto de resolver problemas, aprender fazendo e transformar ideias em código �
 ### 📫 Onde me encontrar
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:analauraaciolyv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-laura-acioly-de-carvalho-vasconcellos-296551249/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lauraacioly)
 
 ---
